@@ -1,0 +1,162 @@
+!SESSION 2023-11-17 15:02:43.843 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-11-17 15:03:02.059
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-17 15:03:02.121
+!MESSAGE Log4j2 initialized with config file N:\EECS373\lab_7\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-17 15:03:04.488
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-11-17 15:05:11.149 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-11-17 15:05:18.936
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-17 15:05:18.948
+!MESSAGE Log4j2 initialized with config file N:\EECS373\lab_7\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-17 15:05:21.942
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-11-30 11:33:35.984 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-11-30 11:33:53.632
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-30 11:33:53.701
+!MESSAGE Log4j2 initialized with config file N:\EECS373\lab_7\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-11-30 11:33:56.183
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.ui.views.ResourceNavigator" id and the "Navigator (Deprecated)" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-30 11:33:57.490
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-11-30 11:34:35.922
+!MESSAGE Indexed 'xBeeNES' (27 sources, 125 headers) in 5.14 sec: 12,665 declarations; 56,611 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.25%)
+!SESSION 2023-11-30 11:36:39.947 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-11-30 11:36:49.128
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-30 11:36:49.137
+!MESSAGE Log4j2 initialized with config file N:\EECS373\lab_7\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-30 11:36:54.044
+!MESSAGE Started RMI Server, listening on port 41338
+!SESSION 2023-12-01 16:35:46.924 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-12-01 16:36:53.982
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-01 16:36:54.013
+!MESSAGE Log4j2 initialized with config file N:\EECS373\lab_7\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-01 16:37:06.315
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-12-01 16:39:57.059 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-12-01 16:40:01.623
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-01 16:40:01.636
+!MESSAGE Log4j2 initialized with config file N:\EECS373\lab_7\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-01 16:40:07.641
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-01 16:41:07.725
+!MESSAGE Indexed 'ok' (23 sources, 115 headers) in 8.44 sec: 11,179 declarations; 49,520 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.28%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-01 16:41:18.028
+!MESSAGE Indexed 'lab-3' (36 sources, 133 headers) in 10.3 sec: 17,140 declarations; 121,757 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.12%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-01 16:41:18.272
+!MESSAGE Indexed 'Lab5' (3 sources, 53 headers) in 0.234 sec: 1,969 declarations; 2,924 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.041%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-01 16:41:24.882
+!MESSAGE Indexed 'lab-1' (21 sources, 113 headers) in 6.59 sec: 10,838 declarations; 46,731 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.3%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-01 16:41:32.944
+!MESSAGE Indexed 'lab3' (21 sources, 113 headers) in 7.23 sec: 10,837 declarations; 46,661 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.3%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-01 16:41:40.583
+!MESSAGE Indexed 'lab4_part2' (21 sources, 113 headers) in 7.58 sec: 10,867 declarations; 46,766 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.3%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-01 16:41:48.182
+!MESSAGE Indexed 'lab5-part3' (23 sources, 118 headers) in 7.54 sec: 13,852 declarations; 82,566 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-01 16:41:48.429
+!MESSAGE Indexed 'Lab-2' (3 sources, 53 headers) in 0.225 sec: 1,969 declarations; 2,874 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.041%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-01 16:41:48.716
+!MESSAGE Indexed 'lab1_part2' (3 sources, 53 headers) in 0.258 sec: 1,957 declarations; 2,867 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.041%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-01 16:41:48.961
+!MESSAGE Indexed 'lab4' (3 sources, 53 headers) in 0.216 sec: 1,976 declarations; 2,899 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.041%)
+!SESSION 2023-12-01 16:43:58.496 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-12-01 16:44:03.536
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-01 16:44:03.552
+!MESSAGE Log4j2 initialized with config file N:\EECS373\lab_7\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-01 16:44:10.859
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.help.base 2 0 2023-12-01 16:46:51.433
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.cdt.doc.user_11.3.0.202307110141 [873]'. The index should be rebuilt with Lucene 9.7.0
+!SESSION 2023-12-04 14:47:18.971 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-12-04 14:48:11.388
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-04 14:48:11.469
+!MESSAGE Log4j2 initialized with config file N:\EECS373\lab_7\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.help.base 2 0 2023-12-04 14:48:17.869
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.cdt.doc.user_11.3.0.202307110141 [586]'. The index should be rebuilt with Lucene 9.7.0
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-04 14:48:33.482
+!MESSAGE Started RMI Server, listening on port 41337

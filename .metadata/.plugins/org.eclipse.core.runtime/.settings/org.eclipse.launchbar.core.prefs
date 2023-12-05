@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:xBeeNES Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab-2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab5,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:lab-1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:lab1_part2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:lab3,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:lab4,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:lab4_part2,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:lab5-part3,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ok
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab-2\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab-2\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:xBeeNES\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:xBeeNES\ Debug/activeLaunchTarget=null\:---
